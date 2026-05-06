@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Theme -->
+    <style name="Theme.WishYouWereHere" parent="Theme.Material3.DayNight">
+        <!-- Keep empty or customise -->
+    </style>
+
+    <!-- Assignment styles -->
+    <style name="TitleText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BodyText">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>
